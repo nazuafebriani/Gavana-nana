@@ -4,9 +4,9 @@ const audio = document.getElementById("audio");
 const toggleButton = document.getElementById("togglePlayPause");
 
 const audioList = [
-  "assets/audios/audio1.mp3",
-  "assets/audios/audio2.mp3",
-  "assets/audios/audio3.mp3"
+  "assets/audios/Audio1.mp3",
+  "assets/audios/Audio2.mp3",
+  "assets/audios/Audio3.mp3"
 ];
 
 let audioIndex = 0;
