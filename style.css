@@ -174,7 +174,7 @@ h1 {
 @keyframes neonLinkPulse {
   0%, 100% {
     border-color: var(--color-primary);
-    box-shadow: 0 0 4px rgba(241, 0, 169, 0.2), 0 0 8px rgba(241, 0, 177, 0.3);
+    box-shadow: 0 0 8px rgba(242, 61, 203, 0.89), 0 0 12px rgb(247, 134, 202);
   }
   50% {
     border-color: #f89adf;
