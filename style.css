@@ -79,7 +79,7 @@ body::before {
     border-color: var(--color-primary);
   }
   50% {
-    border-color: #ff4de4;
+    border-color: #f49de7;
   }
 }
 
